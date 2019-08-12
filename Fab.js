@@ -51,7 +51,7 @@ export default class FabComponent extends Component {
                 <FAB
                     style={styles.fab}
                     small={false}
-                    icon="add"
+                    icon="apple"
                     disabled={this.state.disableFab}
                     onPress={this.handleFabPress}
                 />
